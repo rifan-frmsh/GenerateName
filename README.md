@@ -1,5 +1,5 @@
 # Generate Name
-Download aplikasi : <a href="https://expo.dev/artifacts/eas/tkgpktzML219ye3BN4vGBp.apk">Generate Name</a>
+Download aplikasi : <a href="https://expo.dev/artifacts/eas/hJq7wAvD2xiLNzahsenvmK.apk">Generate Name</a>
 
 ## Screenshoot
 ### Halaman Beranda
